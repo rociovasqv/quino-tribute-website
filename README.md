@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Quino Tribute Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A tribute website dedicated to Joaquín Salvador Lavado Tejón, better known as Quino, the legendary Argentine cartoonist and creator of Mafalda.
 
-## Available Scripts
+## About
+
+This project celebrates the life and work of Quino (1932-2020), whose insightful humor and social commentary touched millions of readers worldwide. Through his iconic character Mafalda and countless other cartoons, Quino left an indelible mark on Latin American culture and beyond.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (version 14 or higher recommended)
+- npm (comes with Node.js)
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/quino-tribute.git
+cd quino-tribute
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+### Running the Application
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in development mode.
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload when you make changes. You may also see any lint errors in the console.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Biography and timeline of Quino's life
+- Gallery of iconic Mafalda strips and other works
+- Quotes and memorable moments
+- Interactive elements celebrating his legacy
+- Responsive design for all devices
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- CSS3
+- JavaScript (ES6+)
+ Open a Pull Request
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## License
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project is created as a tribute and educational resource. All Quino's works are © Joaquín Salvador Lavado (Quino). Please respect copyright laws when using or sharing his content.
 
-### `npm run eject`
+## Acknowledgments
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Quino, for his brilliant work that continues to inspire generations
+- The Mafalda characters and all of Quino's creations
+- Fans worldwide who keep his legacy alive
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*"Don't worry if the world ends today. In Australia it's already tomorrow."* - Mafalda
