@@ -1,0 +1,27 @@
+*{
+    box-sizing: content-box;
+}
+
+img{
+    height: 100px;
+    margin: 15px;
+}
+.mafaldaBox{
+    display: flex;
+    flex-direction: row;
+}
+.mafaldaItem{
+    background-color: #c0b8b8;
+    margin: 10px;
+    border-radius: 15px;
+    border: 1px solid;
+    align-content: center;
+    justify-content: center;
+    box-shadow: 1px 1px  #2e2d2d;
+}
+p{
+    margin: 40px;
+}
+ button{
+    margin: 20px;
+ }

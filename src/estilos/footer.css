@@ -1,0 +1,24 @@
+footer{
+    background-color: #3a3030;
+    box-sizing: border-box;
+
+}
+
+.subfooter{
+    border-left: solid 1px #c3bdbd;
+    text-align: center;
+    text-decoration: none;
+    width: 33%;
+    float: left;
+}
+li{
+    justify-content: center;
+}
+
+#footerbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+}
